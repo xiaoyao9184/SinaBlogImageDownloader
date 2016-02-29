@@ -1,0 +1,18 @@
+{
+	"debug":false,
+	"version":"2.0",
+	"downThreadCount":10,
+	"resolveThreadCount":10,
+	"maxTimeOutCount":5,
+	"retrySleep":3000,
+	"useAlubmPath":true,
+	"useBlogPath":true,
+	"usePagePath":false,
+	"useBlogNO":false,
+	"usePageNO":false,
+	"downType":"big",
+	"reNameStyle":"id",
+	"ignore0CountAlubm":true,
+	"ignoreResolved":true,
+	"ignoreDowned":true
+}
